@@ -1,8 +1,13 @@
 # Anomaly-Detection-Using-IMU-Data
 
+`This is a repository created for the ICAS Competition. This was created because the original repository was private. You can access the` [original repository](https://github.com/Chumsy0725/ICAS-2021/tree/main/IMU) `if you want.`
+
+---------------------------------------
 
 In here we use given [IMU](https://www.arrow.com/en/research-and-events/articles/imu-principles-and-applications)(Inertial Measurement Unit) data of a vehicle to detect anomalies. 
 The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
+
+---------------------------------------
 
 ### Initial Requirements
 > Python
@@ -21,7 +26,7 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
 
 > Keras
 
-
+---------------------------------------
 
 ### Steps
 
@@ -42,6 +47,7 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
 
 
 
+---------------------------------------
 
 * After that you have to crate a [deep learning model for forcasting](https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/Model%20Training/Multivariate_LSTM_Model.ipynb)...
 *You can simply follow the code for more understanding*
@@ -58,6 +64,7 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
 
 <img src="https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/Model%20Training/validation_accuracy.png" alt="Accuracies and Losses" style="width:1000px;"/>
 
+---------------------------------------
 
   * Capturing the Abnormalities...
 
