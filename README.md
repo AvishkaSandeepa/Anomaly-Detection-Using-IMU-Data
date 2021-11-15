@@ -30,7 +30,7 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
 
 ### Steps
 
-* you have to extract the data from given rosbag file. There are so many data in it. Then filterout the IMU data. You can use [this method](https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/extract-data/extract_data.ipynb) fot that. 
+* you have to extract the data from given rosbag file. There are so many data in it. Then filterout the IMU data. You can use [this method](https://github.com/AvishkaSandeepa/Anomaly-Detection-Using-IMU-Data/blob/master/extract-data/extract_data.ipynb) fot that. 
 * Save the extracted data in csv file for further processing techniques. You can see something like this for IMU data
 
 
@@ -49,7 +49,7 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
 
 ---------------------------------------
 
-* After that you have to crate a [deep learning model for forcasting](https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/Model%20Training/Multivariate_LSTM_Model.ipynb)...
+* After that you have to crate a [deep learning model for forcasting](https://github.com/AvishkaSandeepa/Anomaly-Detection-Using-IMU-Data/blob/master/Model%20Training/Multivariate_LSTM_Model.ipynb)...
 *You can simply follow the code for more understanding*
 
   * For forecasting I only used 6 IMU data features
