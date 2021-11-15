@@ -62,11 +62,11 @@ The data was in rodbag file. [ROS](https://www.ros.org/)(Robot Operating System)
       * `Training Loss ~ 0.15%`  `Validation Loss ~ 1.18%`  `Training Accuracy ~ 81.59%`  `Validation Accuracy ~ 44.83%` 
 
 
-<img src="https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/Model%20Training/validation_accuracy.png" alt="Accuracies and Losses" style="width:1000px;"/>
+<img src="https://github.com/AvishkaSandeepa/Anomaly-Detection-Using-IMU-Data/blob/master/Model%20Training/validation_accuracy.png" alt="Accuracies and Losses" style="width:1000px;"/>
 
 ---------------------------------------
 
   * Capturing the Abnormalities...
 
 
-  <img src="https://github.com/Chumsy0725/ICAS-2021/blob/main/IMU/Model%20Training/abnormal_error.png" alt="Checking Abnormalities" style="width:1000px;"/>
+  <img src="https://github.com/AvishkaSandeepa/Anomaly-Detection-Using-IMU-Data/blob/master/Model%20Training/abnormal_error.png" alt="Checking Abnormalities" style="width:1000px;"/>
